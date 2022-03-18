@@ -13,6 +13,9 @@ Language-specific Docker guides:
 Libvirt:
 - https://libvirt.org/docs.html
 
+cloud-init:
+- https://cloudinit.readthedocs.io/en/latest/
 
+And many more to come...
 
 
