@@ -15,7 +15,7 @@ Any questions?
 
 First glance on what multiversion-build-toolchain should be able to do.
 <br />
-<a href="https://draft.io/znbva3qj7ygjn2nhc5hva42h2wmn978n9x536fpwcug9s"><strong>User story mapping »</strong></a>
+<a href="https://draft.io/znbva3qj7ygjn2nhc5hva42h2wmn978n9x536fpwcug9"><strong>User story mapping »</strong></a>
 
 
 
