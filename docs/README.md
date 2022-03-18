@@ -1,4 +1,4 @@
-# Doc
+# Docs
 
 Here you will find my thoughts and notes about the project.
 
