@@ -19,7 +19,7 @@
   <p align="center">
     Build and package your code in multiple flavours with a single command
     <br />
-    <a href="https://github.com/roberto-borgone/multi-version-build-toolchain"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/roberto-borgone/multi-version-build-toolchain/tree/main/doc"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://github.com/roberto-borgone/multi-version-build-toolchain/issues/new?assignees=&labels=bug&template=&title=%5BBug%5D">Report Bug</a>

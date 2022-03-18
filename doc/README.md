@@ -7,10 +7,11 @@ Found something foolish?
 <br />
 <a href="https://github.com/roberto-borgone/multi-version-build-toolchain/issues/new?assignees=&labels=documentation&template=&title=%5BDocumentation%5D"><strong>Let me know »</strong></a>
 
-## 
 Any questions?
 <br />
 <a href="https://github.com/roberto-borgone/multi-version-build-toolchain/issues/new?assignees=&labels=question&template=&title=%5BQuestion%5D"><strong>Let me know »</strong></a>
+
+## Goal
 
 First glance on what multiversion-build-toolchain should be able to do.
 <br />
