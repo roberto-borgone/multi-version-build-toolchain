@@ -22,11 +22,9 @@
     <a href="https://github.com/roberto-borgone/multi-version-build-toolchain"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/roberto-borgone/multi-version-build-toolchain">View Demo</a>
+    <a href="https://github.com/roberto-borgone/multi-version-build-toolchain/issues/new?assignees=&labels=bug&template=&title=%5BBug%5D">Report Bug</a>
     ·
-    <a href="https://github.com/roberto-borgone/multi-version-build-toolchain/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/roberto-borgone/multi-version-build-toolchain/issues">Request Feature</a>
+    <a href="https://github.com/roberto-borgone/multi-version-build-toolchain/issues/new?assignees=&labels=enhancement&template=&title=%5BFeature%5D">Request Feature</a>
   </p>
 </div>
 
