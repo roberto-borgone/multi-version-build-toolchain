@@ -6,6 +6,10 @@ Apps have dependencies. Modules/libraries must be taken into account at build ti
 
 Gradle is able to provide dependencies management, but would it be possible to automatically configure build.gradle / settings.gradle files without user intervention? (parsing the source code maybe?)
 
+### Note
+
+At the beginning I would not deal with the Executable level, I would concentrate on the other part because depending on the programming language used for the project the ecosystem for building the executable and retrieving the dependencies could be different (pip for Python, npm for Node.js, Gradle for native/JVM, etc..). 
+
 ## Artefact level
 
 ### Self contained artefacts

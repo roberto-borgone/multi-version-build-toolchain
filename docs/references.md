@@ -7,15 +7,24 @@ GitHub Actions:
 - https://docs.github.com/en/actions
 - https://docs.docker.com/ci-cd/github-actions/
 
+Docker:
+- https://docs.docker.com/reference/
+
 Language-specific Docker guides:
 - https://docs.docker.com/language/
 
 Libvirt:
 - https://libvirt.org/docs.html
 
-cloud-init:
-- https://cloudinit.readthedocs.io/en/latest/
+virt-cutomize:
+- https://libguestfs.org/virt-customize.1.html
 
-And many more to come...
+Ansible:
+- https://docs.ansible.com/ansible/latest/user_guide/
+
+Helm:
+- https://helm.sh/docs/
+
+
 
 
